@@ -20,4 +20,4 @@ This is a football training simulation game developed using Python and Pygame. T
 1. **Clone the Repository:**
    Download the code from GitHub by running the following command:
    ```bash
-   git clone https://github.com/your-username/football-training.git
+   git clone https://github.com/your-username/football-training.git](https://github.com/GhazlJy/Visionary-Coders.git)
