@@ -21,3 +21,15 @@ This is a football training simulation game developed using Python and Pygame. T
    Download the code from GitHub by running the following command:
    ```bash
    git clone https://github.com/your-username/football-training.git](https://github.com/GhazlJy/Visionary-Coders.git)
+
+
+Install Pygame:
+Make sure you have Python 3 installed on your machine, then install Pygame using pip:
+
+pip install pygame
+
+
+Run the Game:
+After installing Pygame, you can run the game using the following command:
+
+python main.py
